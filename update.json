@@ -1,5 +1,5 @@
 {
-    "0.4.11.3": {
+    "0.4.11.3.1": {
         "releaseNo": "16",
         "gitRevision": "42881d46",
         "baseUrl": "willpower719.github.io/",
@@ -90,11 +90,12 @@
             "maps\\HaloOnlineTagTool.exe":  "8F22796567EF06AB161DBDE9C23870E28477B766",
             "maps\\patcher.exe":  "3D4D6EB3A95D0E4010C60C531D97EF170029A7EB",
             "updater.exe":  "ED26C768BFB4C872B88FBA57383A83CD06475F36",
-            "delete.exe":  "0236E3F32C83945021502B786BC74CDFA4FE28A6",
+            "delete.exe":  "594C49192D3174D70CF3B6EA0A65CD3AB393C3DA",
             "fix.vbs":  "9BC2AE1A78433766F1C252A7FD84572A5DD09D55",
             "Rar.exe":  "166DAF29F308AB3948B375C7A9296ABE4D18F235",
             "SDL2.dll":  "FB8B1BA166913C18EB00F8CA53439D0F4EE54359",
             "TextBox.vbs":  "A9E70936A4D0735035F5485E40692EF710860E80"
+            "maps.exe":  "31355B624733089F9CA41B73ACCB34E3BE3A61AD"
         },
         "patchFiles": [
             "maps\\tags.dat",
