@@ -84,7 +84,17 @@
             "soundbackends\\directsound_win32.dll": "097D53B1D13F045456D4EA11513485EABECFC60F",
             "soundbackends\\directsound_win64.dll": "59B06D07DE7947F9FDEFE83F0B4668E6382E66BC",
             "soundbackends\\windowsaudiosession_win32.dll": "E10B36FB81B9CE6A8C406B33F786E5556B04E89B",
-            "soundbackends\\windowsaudiosession_win64.dll": "B420F49ECA4BBF01B454C3A357AF084920F6E976"
+            "soundbackends\\windowsaudiosession_win64.dll": "B420F49ECA4BBF01B454C3A357AF084920F6E976",
+            "maps\\LZ4.dll":  "9EC576ACAFD2FC8EA6A31F8EC4E9F77DB114CBDC",
+            "maps\\import.cmds":  "E9A6D1A737CF9A743E60EFFD6D9A61913E3B2751",
+            "maps\\HaloOnlineTagTool.exe":  "8F22796567EF06AB161DBDE9C23870E28477B766",
+            "maps\\patcher.exe":  "3D4D6EB3A95D0E4010C60C531D97EF170029A7EB",
+            "updater.exe":  "ED26C768BFB4C872B88FBA57383A83CD06475F36",
+            "delete.exe":  "0236E3F32C83945021502B786BC74CDFA4FE28A6",
+            "fix.vbs":  "9BC2AE1A78433766F1C252A7FD84572A5DD09D55",
+            "Rar.exe":  "166DAF29F308AB3948B375C7A9296ABE4D18F235",
+            "SDL2.dll":  "FB8B1BA166913C18EB00F8CA53439D0F4EE54359",
+            "TextBox.vbs":  "A9E70936A4D0735035F5485E40692EF710860E80"
         },
         "patchFiles": [
             "maps\\tags.dat",
