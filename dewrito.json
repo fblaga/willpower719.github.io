@@ -20,7 +20,8 @@
         "maps\\video.dat": "94CE0296BA71CA4679780A1405683501B5A478D5",
         "binkw32.dll": "C1F3CBD820DBFAFB46FEC1AC49E055E856685238",
         "eldorado.exe": "0586C67FBB3713F7ED55771C63B1C100A29D5AE4",
-        "game.cfg": "EF9771599CA2E6C4A33BA2D2828508D67E919058"
+        "game.cfg": "EF9771599CA2E6C4A33BA2D2828508D67E919058",
+        "maps\\fonts\\font_package.bin": "DDFA833A4C617DA68E003104A3806278F09AFDA0",
     },
 
     "updateServiceUrl": "https://willpower719.github.io/update.json",
