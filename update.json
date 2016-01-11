@@ -1,5 +1,5 @@
 {
-    "0.4.11.3.2": {
+    "0.4.11.4": {
         "releaseNo": "18",
         "gitRevision": "42881d47",
         "baseUrl": "willpower719.github.io/",
@@ -13,7 +13,7 @@
             "ts3server_win32.dll": "8B10FE1F27F435BD4B4296AABB0DC07A7757A6E1",
             "natives_blob.bin": "FE896C85090BAB3F97D4E9E979E770E2A13EADA6",
             "snapshot_blob.bin": "3F7AD87A1B313D4C39A62943730676439CDD7994",
-            "mtndew.dll": "E0CE8C19E5C2231DFD6C4F6A6528EACF05AF3964",
+            "mtndew.dll": "B09C9D1E4C0C806DF47C55040193085A61E8F5FD",
             "libwebsocketswin32.dll": "A03F096D3ACA33EF74879B1386F3078551941BBF",
             "libEGL.dll": "CF43A5A3F78700FC4BE9CD8A3BB06BA9642EBBB5",
             "libGLESv2.dll": "8F07E736DCA02701A241C526CA9C2A430860AAAF",
